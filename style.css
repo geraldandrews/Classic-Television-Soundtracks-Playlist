@@ -78,6 +78,8 @@ h1 {
 
 .player .main .seekbar input[type="range"] {
     -webkit-appearance:none;
+    -moz-appearance:    none;
+    appearance:         none;
     width: 100%;
     height: 14px;
     outline: none;
@@ -94,6 +96,8 @@ h1 {
 
 .player .main .volumecontrol {
     -webkit-appearance: none;
+    -moz-appearance:    none;
+    appearance:         none;
     display: flex;
     justify-content: center;
     align-items: center;
