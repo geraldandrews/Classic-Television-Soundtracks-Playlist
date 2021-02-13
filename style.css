@@ -26,6 +26,7 @@ h1 {
 @media (max-width: 768px) {
     h1 {
         margin: 11rem 0rem;
+        font-size: 16px;
     }
 }
 
@@ -46,8 +47,6 @@ h1 {
         margin: 0;
     }
 }
-
-
 
 .player {
     position: absolute;
