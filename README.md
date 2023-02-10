@@ -2,7 +2,7 @@
 ### Live Site: https://geraldandrews.github.io/Classic-Television-Soundtracks-Playlist/
 
 ### Project Description: Personal
-### Programs Used: GIMP
+### Programs Used: HTML, CSS, and JavaScript
 ### Date Created: 2020
 
 ## Description: 
