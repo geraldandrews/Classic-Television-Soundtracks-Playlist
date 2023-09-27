@@ -251,6 +251,7 @@ i.fa-volume-up {
 }
 
 .creator {
+    background: blue;
     text-align: center;
     color: #fff;
 }
