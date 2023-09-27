@@ -249,3 +249,8 @@ i.fa-volume-up {
 .player.activeSongList .main {
     filter: blur(5px);
 }
+
+.creator p {
+    text-align: center;
+    color: #fff;
+}
