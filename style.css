@@ -241,10 +241,10 @@ footer a {
     color: #fff;
 }
 
-/*@media (max-height: 500px) {
+@media (max-width: 400px) {
     .player {
         top: 55%;
     }
-}*/
+}
 
 
