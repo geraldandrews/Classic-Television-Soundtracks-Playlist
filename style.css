@@ -241,7 +241,7 @@ footer a {
     color: #fff;
 }
 
-/*@media (max-height: 500px) {
+@media (max-height: 500px) {
     .player {
         top: 55%;
     }
