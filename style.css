@@ -226,6 +226,7 @@ footer {
     width: 100%;
     background: blue;
     position: absolute;
+    overflow: hidden;
     color: #fff;
     bottom: 0%;
 }
