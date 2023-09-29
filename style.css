@@ -10,6 +10,8 @@ body {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('img/bg.jpg') no-repeat center center/cover;
     font-family: 'Oswald', sans-serif;
     height: 100vh;
+    position: relative;
+    overflow: hidden;
 }
 
 .heading {
