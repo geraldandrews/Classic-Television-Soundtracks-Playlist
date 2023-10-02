@@ -170,42 +170,42 @@ let songList = [
         thumbnail:"knight rider.png",
         audio:"knight 2000 remix.mp3",
         songname:"Knight Rider 2000 Soundtrack",
-        artistname:"Jan Hammer"
+        artistname:"Knight Rider"
     },
 
     {
         thumbnail:"knight rider.png",
         audio:"knight rider remix.mp3",
         songname:"Knight Rider Remix",
-        artistname:"Unknown"
+        artistname:"Knight Rider"
     },
 
     {
         thumbnail:"knight rider.png",
         audio:"knight rider remix-2.mp3",
         songname:"Knight Rider Remix",
-        artistname:"Unknown"
+        artistname:"Knight Rider"
     },
 
     {
         thumbnail:"knight rider.png",
         audio:"knight rider remix-3.mp3",
         songname:"Knight Rider Remix",
-        artistname:"Unknown"
+        artistname:"Knight Rider"
     },
 
     {
         thumbnail:"knight rider.png",
         audio:"knight rider remix-4.mp3",
         songname:"Knight Rider Remix",
-        artistname:"Unknown"
+        artistname:"Knight Rider"
     },
 
     {
         thumbnail:"knight rider.png",
         audio:"knight rider remix-5.mp3",
         songname:"Knight Rider Remix",
-        artistname:"Unknown"
+        artistname:"Knight Rider"
     },
 
     {
@@ -282,7 +282,7 @@ let songList = [
         thumbnail:"miami vice.jpg",
         audio:"crocketts return remix.mp3",
         songname:"Crocketts Return Remix",
-        artistname:"Jan Hammer"
+        artistname:"Miami Vice"
     },
 
     {
@@ -352,7 +352,7 @@ let songList = [
         thumbnail:"miami vice.jpg",
         audio:"miami vice remix.mp3",
         songname:"Miami Vice Remix",
-        artistname:"Jan Hammer"
+        artistname:"Miami Vice"
     },
 
     {
