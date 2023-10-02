@@ -1,5 +1,5 @@
 # Classic Television Soundtracks Playlist
-### Live Site: https://geraldandrews.github.io/Classic-Television-Soundtracks-Playlist/
+### Live Site: https://classictvmusic.netlify.app/
 
 ### Project Description: Personal
 ### Programs Used: HTML, CSS, and JavaScript
