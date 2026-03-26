@@ -230,6 +230,7 @@ footer {
     overflow: hidden;
     color: #fff;
     bottom: 0%;
+    padding: 15px 0;
 }
 
 footer p {
@@ -239,6 +240,7 @@ footer p {
 
 footer a {
     color: #fff;
+    text-decoration: none;
 }
 
 @media (max-width: 400px) {
